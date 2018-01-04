@@ -1,9 +1,9 @@
-##WHAT IS REGEX?
+## WHAT IS REGEX?
 Please read this article to understand about regex
 
 * [REGEX Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 * [Learn REGEX basics](https://www.computerhope.com/jargon/r/regex.htm)
-##MARKDOWN FOR WEB DEVELOPER
+## MARKDOWN FOR WEB DEVELOPER
 #### Regex for validate Viet Nam Phone number
 ```
 /^((01[2689]|088|09)|(([\+]{0,1}84)(1[2689]|88|9)))[0-9]{8}$/
